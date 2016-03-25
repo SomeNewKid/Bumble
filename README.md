@@ -1,2 +1,5 @@
 # Bumble
-Bumbling about learning GitHub.
+Bumbling about, learning GitHub.
+
+Comments
+- annoyed
