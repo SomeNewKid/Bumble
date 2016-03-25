@@ -1,5 +1,6 @@
 # Bumble
 Bumbling about, learning GitHub.
 
-Comments
+Comments:
 - annoyed
+- very annoyed
